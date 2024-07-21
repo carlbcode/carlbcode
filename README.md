@@ -1,6 +1,8 @@
 <h2 dir="auto">Hi there! 👋</h2>
 <p dir="auto">I'm <b>Carl Barria,</b> a BSIT student specializing System Administrator from the <b>Manila, Philippines</b>. With basic foundation in Linux, Windows Server, Networking, and Security practices. I'm passionate about learning new technologies, troubleshooting practices, and building efficient workflows.</p> 
 
+📫 How to reach me: **carlbarria6@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/carlbarria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carl-barria-92390a253/" height="30" width="40" /></a>
