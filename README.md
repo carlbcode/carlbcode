@@ -1,5 +1,5 @@
 <h2 dir="auto">Hi there! 👋</h2>
-<p dir="auto">I'm <b>Carl Barria,</b> a BSIT student specializing System Administrator from the <b>Manila, Philippines</b>. With basic foundation in Linux, Windows Server, Networking, and Security practices. I'm passionate about learning new technologies, troubleshooting practices, and building efficient workflows.</p> 
+<p dir="auto">I'm <b>Carl Barria,</b> a BSIT student specializing System Administrator from <b>Manila, Philippines</b>. With basic foundation in Linux, Windows Server, Networking, and Security practices. I'm passionate about learning new technologies, troubleshooting practices, and building efficient workflows.</p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
